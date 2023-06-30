@@ -48,7 +48,7 @@ class Graph extends Component<IProps, {}> {
         timestamp: 'distinct count',
         upper_bound: 'avg',
         lower_bound: 'avg',
-        triger_alert: 'avg',
+        trigger_alert: 'avg'
       }));
     }
   }
